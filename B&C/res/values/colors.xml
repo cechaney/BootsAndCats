@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Based on the "antidesign" pallete by death of design on www.colourlovers.com
+http://www.colourlovers.com/palette/109188/antidesign
+
+COLORS
+one & one is eleven
+#413D3D
+
+ctrl+alt+del
+#040004
+
+Limelight
+#C8FF00
+
+.chicken.pox.rox.
+#FA023C
+
+bloody stōōl
+#4B000F
+
+ -->
+<resources>
+	<color name="black">#040004</color>
+	<color name="gray">#413D3D</color>
+	<color name="limelight">#C8FF00</color>   
+	<color name="pink">#FA023C</color>
+	<color name="red">#4B000F</color>
+	<color name="white">#FFFFFF</color>
+</resources>
+

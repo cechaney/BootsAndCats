@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boots And Cats</string>
+    <string name="action_settings">Settings</string>
+	<string name="boots">B</string>
+	<string name="cats">C</string>
+	<string name="bee">Be</string>
+	<string name="tit">Ti</string>
+
+</resources>
